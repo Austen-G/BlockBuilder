@@ -1,9 +1,9 @@
 {
-  "name": "atom-build",
-  "description": "Atom build",
+  "name": "BlockBuilder",
+  "description": "A combination of atom and Blockly",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/atom.git"
+    "url": "https://github.com/Austen-G/BlockBuilder.git"
   },
   "dependencies": {
     "asar": "^0.8.0",
